@@ -16,4 +16,4 @@ More examples:
 
 `letters("Bangkok")    -->  "b:+, a:+, n:+, g:+, k:++, o:+"`
 `letters("Las Vegas")  -->  "l:+, a:++, s:++, v:+, e:+, g:+"`
-`letters("St. Louis")  -->  "s:++, t+, l:+, o:+, u:+, i:+"
+`letters("St. Louis")  -->  "s:++, t+, l:+, o:+, u:+, i:+"`
